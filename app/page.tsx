@@ -5,6 +5,7 @@ export default function Home() {
     <>
       <h1>Hello world</h1>
       <Button>Click me</Button>
+      <p>use this</p>
     </>
   );
 }
